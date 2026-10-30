@@ -4,6 +4,9 @@
 
 Building an isolated virtual lab for penetration testing and ethical hacking practice.
 
+<img width="1366" height="734" alt="image" src="https://github.com/user-attachments/assets/f694af23-45a1-4f67-aef2-9239d56c812b" />
+
+
 ![Skill](https://img.shields.io/badge/Skill-Cybersecurity-red) ![VirtualBox](https://img.shields.io/badge/VirtualBox-7.2-blue) ![Kali](https://img.shields.io/badge/Kali%20Linux-2026.3-black) ![Network](https://img.shields.io/badge/Network-10.0.0.0%2F24-teal)
 
 ---
